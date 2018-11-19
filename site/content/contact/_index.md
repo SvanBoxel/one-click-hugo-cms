@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo2.svg"
+logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: "Earth"
