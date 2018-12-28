@@ -9,6 +9,7 @@ blurb:
 intro:
   heading: What we do
   text: We make website
+product: []
 values:
   heading: Our values
   text: Making sweet code!
