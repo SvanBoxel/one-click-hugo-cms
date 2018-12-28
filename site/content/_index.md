@@ -1,6 +1,6 @@
 ---
-title: (((SH)))
-subtitle: Support sustainable IT
+title: </>
+subtitle: 'CSS, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: (((SH)))
