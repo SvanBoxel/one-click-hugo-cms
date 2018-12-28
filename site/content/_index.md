@@ -1,10 +1,12 @@
 ---
 title: </>
-subtitle: 'CSS, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
+subtitle: >-
+  Debugging is the art of finding out what you really told your computer to do
+  instead of what you thought you told it to do — Andrew Singer
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: What we think
-  text: Debugging is the art of finding out what you really told your computer to do instead of what you thought you told it to do — Andrew Singer
+  heading: What we do
+  text: 'CSS, Elasticsearch, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
 intro:
   heading: What we offer
   text: Not much sadly
