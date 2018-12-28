@@ -6,7 +6,7 @@ subtitle: >-
 image: /img/home-jumbotron.jpg
 blurb:
   heading: What we do
-  text: 'CSS, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
+  text: 'CSS, Elasticsearch, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
 intro:
   heading: What we offer
   text: Not much sadly
