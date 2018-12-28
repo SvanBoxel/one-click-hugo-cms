@@ -8,7 +8,6 @@ blurb:
 intro:
   heading: What we offer
   text: Not much sadly
-products: []
 values:
   heading: Our values
   text: Making sweet code!
