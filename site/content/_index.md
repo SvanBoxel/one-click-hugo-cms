@@ -5,7 +5,7 @@ subtitle: >-
   instead of what you thought you told it to do — Andrew Singer
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: What we know
+  heading: What we know test
   text: 'CSS, Elasticsearch, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
 intro:
   heading: What we do
