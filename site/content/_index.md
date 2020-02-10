@@ -1,5 +1,5 @@
 ---
-title: (((SH)))
+title: Words of wisdom
 subtitle: >-
   Debugging is the art of finding out what you really told your computer to do
   instead of what you thought you told it to do — Andrew Singer
