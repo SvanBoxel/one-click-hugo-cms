@@ -41,7 +41,7 @@ export default class PostPreview extends React.Component {
               </div>
 
               <div className="w-60-l ph2-l">
-                <img src="/img/home-about-section.jpg" alt="" className="mb3"/>
+                <img src="/img/kipComputer.gif" alt="" className="coding with passion"/>
               </div>
             </div>
 
