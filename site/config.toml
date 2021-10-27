@@ -1,5 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
+<<<<<<< HEAD
 languageLang = "en"
 title = "Homepage"
 
@@ -7,3 +8,6 @@ title = "Homepage"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+=======
+title = "Homepage"
+>>>>>>> f53574889f6352b6a60c79eccab163f751add0b3

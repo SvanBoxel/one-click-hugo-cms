@@ -1,4 +1,5 @@
 <!doctype html>
+<<<<<<< HEAD
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
@@ -15,3 +16,13 @@
     {{ end }}
   </body>
 </html>
+=======
+<html lang="en">
+  {{ partial "head" . }}
+  <body class="sans-serif">
+    {{ partial "nav" . }}
+    {{ block "main" . }}{{ end }} 
+    {{ partial "footer" . }} 
+  </body>
+</html>
+>>>>>>> f53574889f6352b6a60c79eccab163f751add0b3

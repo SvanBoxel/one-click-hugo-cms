@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
@@ -16,5 +17,23 @@ products:
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+=======
+title: Home
+subtitle: >-
+  Debugging is the art of finding out what you really told your computer to do
+  instead of what you thought you told it to do — Andrew Singer
+image: /img/gatsby-develop-erreur.png
+blurb:
+  heading: What we know...kinda
+  text: 'CSS, Elasticsearch, HTML, JavaScript, Node.js, PHP, PL/SQL, SQL'
+intro:
+  heading: What we do
+  text: 'We make website, and sarcastic jokes'
+products:
+  - {}
+values:
+  heading: Our values
+  text: Making sweet code!
+>>>>>>> f53574889f6352b6a60c79eccab163f751add0b3
 ---
 

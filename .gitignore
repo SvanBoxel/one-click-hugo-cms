@@ -1,5 +1,8 @@
 node_modules/
 dist/
+<<<<<<< HEAD
 site/data/webpack.json
+=======
+>>>>>>> f53574889f6352b6a60c79eccab163f751add0b3
 /npm-debug.log
 yarn-error.log
