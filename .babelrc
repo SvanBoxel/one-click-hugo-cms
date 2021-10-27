@@ -1,12 +1,8 @@
 {
-<<<<<<< HEAD
   "presets": [
     "@babel/preset-env",
     "@babel/preset-react"
   ],
-=======
-  "presets": ["es2015", "react"],
->>>>>>> f53574889f6352b6a60c79eccab163f751add0b3
   "plugins": [
     "@babel/plugin-syntax-object-rest-spread",
     "@babel/plugin-proposal-object-rest-spread"
